@@ -1,0 +1,8 @@
+Implementation Notes:
+
+- I wrote these programs to take data from an input file and return a usable Python data object
+- There is also a file that does the reverse, i.e. takes a Python data objectand outputs it
+into a file
+- On original writing, this is done for lists and dictionaries. As list is not
+formally specified in the code, the 'list' programs could conceivably work
+for other Python data object ty[es
